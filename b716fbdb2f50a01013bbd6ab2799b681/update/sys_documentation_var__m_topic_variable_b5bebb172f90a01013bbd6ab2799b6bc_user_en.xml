@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="user" label="User" language="en" table="var__m_topic_variable_b5bebb172f90a01013bbd6ab2799b6bc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <help/>
+            <hint/>
+            <label>User</label>
+            <language>en</language>
+            <name>var__m_topic_variable_b5bebb172f90a01013bbd6ab2799b6bc</name>
+            <plural>User</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-11 10:29:36</sys_created_on>
+            <sys_id>02bebb572f90a01013bbd6ab2799b62a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User</sys_name>
+            <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_538697_needit_vi">b716fbdb2f50a01013bbd6ab2799b681</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Virtual Agent Conversations">b716fbdb2f50a01013bbd6ab2799b681</sys_scope>
+            <sys_update_name>sys_documentation_var__m_topic_variable_b5bebb172f90a01013bbd6ab2799b6bc_user_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-11 10:29:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

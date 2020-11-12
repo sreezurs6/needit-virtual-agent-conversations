@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cb_topic_category">
+    <sys_cb_topic_category action="DELETE">
+        <description>Update NeedIt Records for Needit virtual agent application</description>
+        <name>Update NeedIt Records</name>
+        <sys_class_name>sys_cb_topic_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 10:22:40</sys_created_on>
+        <sys_id>abccb7172f90a01013bbd6ab2799b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update NeedIt Records for Needit virtual agent application</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_538697_needit_vi">b716fbdb2f50a01013bbd6ab2799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">b716fbdb2f50a01013bbd6ab2799b681</sys_scope>
+        <sys_update_name>sys_cb_topic_category_abccb7172f90a01013bbd6ab2799b607</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 10:22:40</sys_updated_on>
+    </sys_cb_topic_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Virtual Agent Conversations">b716fbdb2f50a01013bbd6ab2799b681</application>
+        <file_path/>
+        <instance_id>e88f4fb9dbbac890387021c4059619e2</instance_id>
+        <instance_name>dev99669</instance_name>
+        <name>sys_cb_topic_category_abccb7172f90a01013bbd6ab2799b607</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cb_topic_category"><sys_cb_topic_category action="INSERT_OR_UPDATE"><description>Update NeedIt Records for Needit virtual agent application</description><name>Update NeedIt Records</name><sys_class_name>sys_cb_topic_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-11 10:22:40</sys_created_on><sys_id>abccb7172f90a01013bbd6ab2799b607</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update NeedIt Records for Needit virtual agent application</sys_name><sys_package display_value="NeedIt Virtual Agent Conversations" source="x_538697_needit_vi">b716fbdb2f50a01013bbd6ab2799b681</sys_package><sys_policy/><sys_scope display_value="NeedIt Virtual Agent Conversations">b716fbdb2f50a01013bbd6ab2799b681</sys_scope><sys_update_name>sys_cb_topic_category_abccb7172f90a01013bbd6ab2799b607</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-11 10:22:40</sys_updated_on></sys_cb_topic_category></record_update>]]></payload>
+        <payload_hash>243719258</payload_hash>
+        <record_name>Update NeedIt Records for Needit virtual agent application</record_name>
+        <reverted_from/>
+        <source>73167fdf2f50a01013bbd6ab2799b6d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 10:22:40</sys_created_on>
+        <sys_id>902d37d32f90a01013bbd6ab2799b6a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175b6d42dc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 10:22:40</sys_updated_on>
+        <type>Topic Category</type>
+        <update_guid>d82d37d31890a01089de5b6b43f113a6</update_guid>
+        <update_guid_history>d82d37d31890a01089de5b6b43f113a6:243719258</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-11 10:25:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic_category">sys_cb_topic_category</sys_db_object>
+        <sys_id>552e7fe614714e5c98ff5542eb1fc544</sys_id>
+        <sys_metadata>abccb7172f90a01013bbd6ab2799b607</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update NeedIt Records for Needit virtual agent application</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_538697_needit_vi">b716fbdb2f50a01013bbd6ab2799b681</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">b716fbdb2f50a01013bbd6ab2799b681</sys_scope>
+        <sys_scope_delete display_value="">654e19e6b44e44a9810463a443b87ab9</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_category_abccb7172f90a01013bbd6ab2799b607</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_category_abccb7172f90a01013bbd6ab2799b607">902d37d32f90a01013bbd6ab2799b6a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 10:25:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
